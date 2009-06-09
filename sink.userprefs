@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<UserCombinePreferences filename="/home/bicha/sink/sink.mds">
+  <Files>
+    <File filename="Bienvenido" />
+    <File filename="./sink/sinkgtk.cs" />
+    <File filename="./sink/configuration.cs" />
+    <File filename="./sink/world.cs" />
+    <File filename="./sink/help.cs" />
+    <File filename="./sink/authors.cs" />
+    <File filename="./sink/gtk-gui/objects.xml" />
+    <File filename="./sink/gtk-gui/generated.cs" />
+  </Files>
+  <Views>
+    <ViewMemento Id="MonoDevelop.Ide.Gui.Pads.ProjectPad">
+      <TreeView>
+        <Node expanded="True">
+          <Node name="sink" expanded="True">
+            <Node name="UserInterface" expanded="True" />
+            <Node name="help.cs" expanded="False" selected="True" />
+          </Node>
+        </Node>
+      </TreeView>
+    </ViewMemento>
+    <ViewMemento Id="MonoDevelop.Ide.Gui.Pads.ClassPad">
+      <TreeView>
+        <Node expanded="True" selected="True" />
+      </TreeView>
+    </ViewMemento>
+  </Views>
+  <Properties>
+    <Properties>
+      <Property key="ActiveConfiguration" value="Debug" />
+      <Property key="ActiveWindow" value="/home/bicha/sink/sink/help.cs" />
+    </Properties>
+  </Properties>
+</UserCombinePreferences>

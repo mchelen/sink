@@ -1,0 +1,17 @@
+<Combine name="sink" fileversion="2.0">
+  <Configurations active="Debug">
+    <Configuration name="Debug" ctype="CombineConfiguration">
+      <Entry build="True" name="sink" configuration="Debug" />
+    </Configuration>
+    <Configuration name="Release" ctype="CombineConfiguration">
+      <Entry build="True" name="sink" configuration="Release" />
+    </Configuration>
+  </Configurations>
+  <DeployTargets />
+  <StartMode startupentry="sink" single="True">
+    <Execute type="None" entry="sink" />
+  </StartMode>
+  <Entries>
+    <Entry filename="./sink/sink.mdp" />
+  </Entries>
+</Combine>
